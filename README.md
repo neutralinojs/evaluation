@@ -71,5 +71,27 @@ file count                        11
 ```
 sdk and application bundle are similar in njs
 
+# Memory consumption
 
+Physical memory consumption comparison with simple `Hello World` application on Linux and Windows.
 
+## NW.js
+
+```
+Linux                           ~ 40 - 42 MB
+Windows                         ~ 40 - 45 MB
+```
+
+## Electron
+
+```
+Linux                           ~ 62 - 65 MB
+Windows                         ~ 45 - 50 MB
+```
+
+## Neutralinojs
+
+```
+Linux                           ~ 8 - 9 MB
+Windows                         ~ 6 - 7 MB  
+```
