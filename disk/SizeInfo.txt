@@ -7,14 +7,18 @@ Node Webkit
 Linux
 
 zipped sdk size                   95.8 MB
-
+total project size                
+application bundle                
+application bundle zipped              
 
 
 Windows
 
 
 zipped sdk size                   72.7 MB
-
+total project size                2 KB
+application bundle                78.1 MB
+application bundle zipped         32.3 MB
 
 Electron
 ---------------
