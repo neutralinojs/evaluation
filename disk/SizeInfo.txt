@@ -1,0 +1,58 @@
+Disk consumption comparison with simple `Hello World` application on Linux and Windows.
+
+
+Node Webkit
+---------------
+
+Linux
+
+zipped sdk size                   95.8 MB
+
+
+
+Windows
+
+
+zipped sdk size                   72.7 MB
+
+
+Electron
+---------------
+
+Linux
+
+build package                     51.53 MB
+node_modules count                147 
+file count                        1539
+total project size                136.4 MB
+application bundle                128.6 MB
+application bundle zipped         51.5 MB
+
+Windows 
+
+build package                     53.16 MB
+node_modules count                180 
+file count                        1368
+total project size                125 MB
+application bundle                118 MB
+application bundle zipped         50.4 MB
+
+
+
+Neutralinojs
+---------------
+
+Linux
+
+portable sdk size                 5.8 MB
+portable sdk size zipped          1.1 MB
+
+Windows
+
+portable sdk size                 5.53 MB
+portable sdk size zipped          1.01 MB
+
+sdk and application bundle are similar
+
+
+
