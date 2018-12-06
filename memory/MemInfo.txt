@@ -1,0 +1,25 @@
+Physical memory consumption comparison with simple `Hello World` application on Linux and Windows.
+
+
+Electron
+---------------
+
+Linux
+Windows                         ~ 40 - 45 MB
+
+
+Electron
+---------------
+
+Linux
+Windows                         ~ 45 - 50 MB
+
+
+
+Neutralinojs
+---------------
+
+Linux                           ~ 8 - 9 MB
+Windows                         ~ 6 - 7 MB  
+
+
