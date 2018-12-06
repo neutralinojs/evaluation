@@ -11,7 +11,7 @@ Windows                         ~ 40 - 45 MB
 Electron
 ---------------
 
-Linux
+Linux                           ~ 62 - 65 MB
 Windows                         ~ 45 - 50 MB
 
 
