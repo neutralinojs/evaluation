@@ -7,9 +7,9 @@ Node Webkit
 Linux
 
 zipped sdk size                   95.8 MB
-total project size                
-application bundle                
-application bundle zipped     
+total project size                1 KB
+application bundle                97.2 MB
+application bundle zipped         36.9 MB
 project file count                5         
 
 
