@@ -1,7 +1,7 @@
 Physical memory consumption comparison with simple `Hello World` application on Linux and Windows.
 
 
-Electron
+NW.js
 ---------------
 
 Linux
