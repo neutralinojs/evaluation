@@ -71,6 +71,8 @@ file count                        11
 ```
 sdk and application bundle are similar in njs
 
+See [proof](https://github.com/neutralinojs/evaluation/tree/master/disk/proof) directory for sample `Hello Wolrd` source and binary releases.
+
 # Memory consumption
 
 Physical memory consumption comparison with simple `Hello World` application on Linux and Windows.
