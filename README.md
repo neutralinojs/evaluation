@@ -130,3 +130,12 @@ Windows                         ~ 6 - 7 MB
 <div align="center">
   <img src="media/dev-njs.JPG"/>
 </div>
+
+### Neutralino Debugging
+
+Neutralino app is served via a socket. Therefore debugging can be done using a web browser.
+
+<img src="media/debug-njs.JPG">
+Figure 3: Debugging a Neutralino based app using Google Chrome.<br/><br/>
+
+
