@@ -7,6 +7,7 @@ Neutralinojs framework was evaluvated in comparison with Electron and NW.js cons
 Simple `Hello World` type application is used in each framework on Linux and Windows for the evaluation.
 
 <img src="media/linux-apps.JPG">
+<center>Figure 1: Sample cross-platform apps written using Electron, NW.js and Neutralino respectively.</center>
 
 #### OS details
 
