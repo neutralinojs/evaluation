@@ -84,7 +84,7 @@ Portable SDK size                 5.53 MB
 Portable SDK size (zipped)        1.01 MB
 File count                        11
 ```
-SDK and application bundle are similar things in Neutralino. We will be introducing an application builder CLI soon!.
+SDK and application bundle are similar things in Neutralino. We will be introducing an application builder CLI soon!. Alternatively project can be zipped as the application bundle. Special case is that a single application bundle will work on both platforms unlike other frameworks do.
 
 See [proof](https://github.com/neutralinojs/evaluation/tree/master/files/disk/proof) directory for sample sources and binary releases.
 
