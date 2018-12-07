@@ -6,29 +6,34 @@ Neutralinojs framework was evaluvated in comparison with Electron and NW.js cons
 
 Simple `Hello World` type application is used in each framework on Linux and Windows for the evaluation.
 
+#### OS details
 
-## 1. Disk Usage
+- Ubuntu 18.04.1 LTS
+- Windows 10 Enterprise
+
+
+## 1. Disk Consumption
 
 ### Node Webkit
 
 #### Linux
 
 ```
-zipped sdk size                   95.8 MB
-total project size                1 KB
-application bundle                97.2 MB
-application bundle zipped         36.9 MB
-project file count                5         
+Zipped SDK size                   95.8 MB
+Project Size                      1 KB
+Application bundle                97.2 MB
+Application bundle (zipped)       36.9 MB
+File count of project             5         
 ```
 
 #### Windows
 
 ```
-zipped sdk size                   72.7 MB
-total project size                2 KB
-application bundle                78.1 MB
-application bundle zipped         32.3 MB
-project file count                5
+Zipped SDK size                   72.7 MB
+Project size                      2 KB
+Application bundle                78.1 MB
+Application bundle (zipped)       32.3 MB
+File count of project             5
 ```
 
 ### Electron
@@ -36,18 +41,18 @@ project file count                5
 #### Linux
 
 ```
-build package                     51.53 MB
+Build package                     51.53 MB
 node_modules count                147 
-project file count                1539
-total project size                136.4 MB
-application bundle                128.6 MB
-application bundle zipped         51.5 MB
+File count of project             1539
+Project size                      136.4 MB
+Application bundle                128.6 MB
+Application bundle (zipped)       51.5 MB
 ```
 
 #### Windows 
 
 ```
-build package                     53.16 MB
+Build package                     53.16 MB
 node_modules count                180 
 project file count                1368
 total project size                125 MB
@@ -62,40 +67,40 @@ application bundle zipped         50.4 MB
 #### Linux
 
 ```
-portable sdk size                 5.8 MB
-portable sdk size zipped          1.1 MB
-file count                        11
+Portable SDK size                 5.8 MB
+Portable SDK size (zipped)        1.1 MB
+File count                        11
 ```
 #### Windows
 
 ```
-portable sdk size                 5.53 MB
-portable sdk size zipped          1.01 MB
-file count                        11
+Portable SDK size                 5.53 MB
+portable SDK size zipped          1.01 MB
+File count                        11
 ```
-sdk and application bundle are similar in njs
+SDK and application bundle are similar things in Neutralino. We will be introducing a application builder CLI soon!.
 
-See [proof](https://github.com/neutralinojs/evaluation/tree/master/disk/proof) directory for sample `Hello Wolrd` source and binary releases.
+See [proof](https://github.com/neutralinojs/evaluation/tree/master/disk/proof) directory for sample sources and binary releases.
 
-# Memory consumption
+## 2. Memory consumption
 
 Physical memory consumption comparison with simple `Hello World` application on Linux and Windows.
 
-## NW.js
+### NW.js
 
 ```
 Linux                           ~ 40 - 42 MB
 Windows                         ~ 40 - 45 MB
 ```
 
-## Electron
+### Electron
 
 ```
 Linux                           ~ 62 - 65 MB
 Windows                         ~ 45 - 50 MB
 ```
 
-## Neutralinojs
+### Neutralinojs
 
 ```
 Linux                           ~ 8 - 9 MB
