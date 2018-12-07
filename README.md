@@ -6,6 +6,12 @@ Neutralinojs framework was evaluvated in comparison with Electron and NW.js cons
 
 Simple `Hello World` type application is used in each framework on Linux and Windows for the evaluation.
 
+<img src="media/linux-apps.JPG">
+Figure 1: Sample cross-platform apps written using Electron, NW.js and Neutralino respectively on Linux.<br/><br/>
+
+<img src="media/win-apps.JPG">
+Figure 2: Sample cross-platform apps written using Electron, NW.js and Neutralino respectively on Windows.
+
 #### OS details
 
 - Ubuntu 18.04.1 LTS
@@ -83,8 +89,6 @@ SDK and application bundle are similar things in Neutralino. We will be introduc
 See [proof](https://github.com/neutralinojs/evaluation/tree/master/disk/proof) directory for sample sources and binary releases.
 
 ## 2. Memory consumption
-
-Physical memory consumption comparison with simple `Hello World` application on Linux and Windows.
 
 ### NW.js
 
