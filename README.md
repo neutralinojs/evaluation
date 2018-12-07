@@ -6,6 +6,8 @@ Neutralinojs framework was evaluvated in comparison with Electron and NW.js cons
 
 Simple `Hello World` type application is used in each framework on Linux and Windows for the evaluation.
 
+<img src="media/linux-apps.JPG">
+
 #### OS details
 
 - Ubuntu 18.04.1 LTS
