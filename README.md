@@ -86,7 +86,7 @@ File count                        11
 ```
 SDK and application bundle are similar things in Neutralino. We will be introducing a application builder CLI soon!.
 
-See [proof](https://github.com/neutralinojs/evaluation/tree/master/disk/proof) directory for sample sources and binary releases.
+See [proof](https://github.com/neutralinojs/evaluation/tree/master/files/disk/proof) directory for sample sources and binary releases.
 
 ## 2. Memory consumption
 
