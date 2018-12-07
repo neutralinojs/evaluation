@@ -1,13 +1,17 @@
 # Evaluation of Neutralinojs
 
-Disk consumption comparison with simple `Hello World` application on Linux and Windows.
+Neutralinojs framework was evaluvated in comparison with Electron and NW.js considering disk consumption, memory consumption, easiness of development workflow and portability.
+
+### Sample applications
+
+Simple `Hello World` type application is used in each framework on Linux and Windows for the evaluation.
 
 
-# Disk Usage
+## 1. Disk Usage
 
-## Node Webkit
+### Node Webkit
 
-### Linux
+#### Linux
 
 ```
 zipped sdk size                   95.8 MB
@@ -17,7 +21,7 @@ application bundle zipped         36.9 MB
 project file count                5         
 ```
 
-### Windows
+#### Windows
 
 ```
 zipped sdk size                   72.7 MB
@@ -27,9 +31,9 @@ application bundle zipped         32.3 MB
 project file count                5
 ```
 
-## Electron
+### Electron
 
-### Linux
+#### Linux
 
 ```
 build package                     51.53 MB
@@ -40,7 +44,7 @@ application bundle                128.6 MB
 application bundle zipped         51.5 MB
 ```
 
-### Windows 
+#### Windows 
 
 ```
 build package                     53.16 MB
@@ -52,17 +56,17 @@ application bundle zipped         50.4 MB
 ```
 
 
-## Neutralinojs
+### Neutralinojs
 
 
-### Linux
+#### Linux
 
 ```
 portable sdk size                 5.8 MB
 portable sdk size zipped          1.1 MB
 file count                        11
 ```
-### Windows
+#### Windows
 
 ```
 portable sdk size                 5.53 MB
