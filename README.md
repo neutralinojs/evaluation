@@ -111,7 +111,7 @@ Linux                           ~ 8 - 9 MB
 Windows                         ~ 6 - 7 MB  
 ```
 
-## 3. Easiness Development Workflow
+## 3. Easiness of Development Workflow
 
 ### Electron
 
