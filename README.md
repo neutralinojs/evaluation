@@ -90,8 +90,6 @@ See [proof](https://github.com/neutralinojs/evaluation/tree/master/disk/proof) d
 
 ## 2. Memory consumption
 
-Physical memory consumption comparison with simple `Hello World` application on Linux and Windows.
-
 ### NW.js
 
 ```
