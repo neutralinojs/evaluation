@@ -60,10 +60,10 @@ Application bundle (zipped)       51.5 MB
 ```
 Build package                     53.16 MB
 node_modules count                180 
-project file count                1368
-total project size                125 MB
-application bundle                118 MB
-application bundle zipped         50.4 MB
+File count of project             1368
+Project size                      125 MB
+Application bundle                118 MB
+Application bundle (zipped)       50.4 MB
 ```
 
 
@@ -81,7 +81,7 @@ File count                        11
 
 ```
 Portable SDK size                 5.53 MB
-portable SDK size zipped          1.01 MB
+Portable SDK size (zipped)        1.01 MB
 File count                        11
 ```
 SDK and application bundle are similar things in Neutralino. We will be introducing a application builder CLI soon!.
