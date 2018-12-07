@@ -110,3 +110,23 @@ Windows                         ~ 45 - 50 MB
 Linux                           ~ 8 - 9 MB
 Windows                         ~ 6 - 7 MB  
 ```
+
+## 3. Easy Development Workflow
+
+### Electron
+
+<div align="center">
+  <img src="media/dev-el.JPG"/>
+</div>
+
+### NW.js
+
+<div align="center">
+  <img src="media/dev-nwjs.JPG"/>
+</div>
+
+### Neutralino
+
+<div align="center">
+  <img src="media/dev-njs.JPG"/>
+</div>
