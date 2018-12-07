@@ -141,3 +141,7 @@ Figure 3: Debugging a Neutralino based app using Google Chrome.<br/><br/>
 ## 4. Conclusion
 
 According to the results of this expertiment Neutralino can be used as a lightweight alternative for Electron and NW.js. Furthermore another experiment needs to be done by using somewhat large cross platform application such as [draw.io](https://github.com/jgraph/drawio). There are some drawbacks such as Windows edition is based on IE etc.
+
+## 5. Contribution
+
+Refer guidelines [here](https://github.com/neutralinojs/neutralinojs#contribution)
