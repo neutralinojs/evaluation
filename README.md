@@ -147,7 +147,7 @@ Neutralino's performance basically depends on the performance of C++ server impl
 | HTTP Request | 100       | 6       | 6      | 8        | 9        | 11       | 4   | 13  | 0.000%  | 87.87346   | 12.36           | 22.05       | 
 | TOTAL        | 100       | 6       | 6      | 8        | 9        | 11       | 4   | 13  | 0.000%  | 87.87346   | 12.36           | 22.05       | 
 
-Result was captured by [Apache JMeter](https://jmeter.apache.org/) using [this](https://github.com/neutralinojs/evaluation/blob/master/files/testing/REST/api_test.jmx) jmx. 
+Result was captured by [Apache JMeter](https://jmeter.apache.org/) using [this](https://github.com/neutralinojs/evaluation/blob/master/files/testing/REST/api_test.jmx) test plan. See more details about this report [here](http://www.testingjournals.com/understand-summary-report-jmeter/). 
 
 ## 5. Conclusion
 
