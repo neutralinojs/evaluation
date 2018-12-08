@@ -138,10 +138,21 @@ Neutralino app is served via a socket. Therefore debugging can be done using a w
 <img src="media/debug-njs.JPG">
 Figure 3: Debugging a Neutralino based app using Google Chrome.<br/><br/>
 
-## 4. Conclusion
+## 4. Performance
+
+Neutralino's performance is basically depends on the performance of C++ server. Here is result for `Neutralino.os.runCommand` for `ls` command for 100 samples. Results was captured by [Apache JMeter](https://jmeter.apache.org/) using [this](https://github.com/neutralinojs/evaluation/blob/master/files/testing/REST/api_test.jmx) jmx. 
+ 
+|--------------|-----------|---------|--------|----------|----------|----------|-----|-----|---------|------------|-----------------|-------------| 
+| Label        | # Samples | Average | Median | 90% Line | 95% Line | 99% Line | Min | Max | Error % | Throughput | Received KB/sec | Sent KB/sec | 
+| HTTP Request | 100       | 6       | 6      | 8        | 9        | 11       | 4   | 13  | 0.000%  | 87.87346   | 12.36           | 22.05       | 
+| TOTAL        | 100       | 6       | 6      | 8        | 9        | 11       | 4   | 13  | 0.000%  | 87.87346   | 12.36           | 22.05       | 
+
+
+
+## 5. Conclusion
 
 According to the results of this expertiment Neutralino can be used as a lightweight alternative for Electron and NW.js. Furthermore another experiment needs to be done by using somewhat large cross platform application such as [draw.io](https://github.com/jgraph/drawio). There are some drawbacks such as Windows edition is based on IE etc.
 
-## 5. Contribution
+## 6. Contribution
 
 Refer guidelines [here](https://github.com/neutralinojs/neutralinojs#contribution)
