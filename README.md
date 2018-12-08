@@ -140,13 +140,14 @@ Figure 3: Debugging a Neutralino based app using Google Chrome.<br/><br/>
 
 ## 4. Performance
 
-Neutralino's performance is basically depends on the performance of C++ server. Here is result for `Neutralino.os.runCommand` for `ls` command for 100 samples. Results was captured by [Apache JMeter](https://jmeter.apache.org/) using [this](https://github.com/neutralinojs/evaluation/blob/master/files/testing/REST/api_test.jmx) jmx. 
+Neutralino's performance is basically depends on the performance of C++ server. Here is result for `Neutralino.os.runCommand` for `ls` command for 100 samples.
 
 | Label        | # Samples | Average | Median | 90% Line | 95% Line | 99% Line | Min | Max | Error % | Throughput | Received KB/sec | Sent KB/sec | 
 |--------------|-----------|---------|--------|----------|----------|----------|-----|-----|---------|------------|-----------------|-------------| 
 | HTTP Request | 100       | 6       | 6      | 8        | 9        | 11       | 4   | 13  | 0.000%  | 87.87346   | 12.36           | 22.05       | 
 | TOTAL        | 100       | 6       | 6      | 8        | 9        | 11       | 4   | 13  | 0.000%  | 87.87346   | 12.36           | 22.05       | 
 
+Result was captured by [Apache JMeter](https://jmeter.apache.org/) using [this](https://github.com/neutralinojs/evaluation/blob/master/files/testing/REST/api_test.jmx) jmx. 
 
 ## 5. Conclusion
 
