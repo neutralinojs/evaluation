@@ -140,7 +140,7 @@ Figure 3: Debugging a Neutralino based app using Google Chrome.<br/><br/>
 
 ## 4. Performance
 
-Neutralino's performance basically depends on the performance of C++ server implementation. Here is the result for `Neutralino.os.runCommand` for `ls` command for 100 samples. It took average 6 miliseconds to respond for `ls` bash command.   
+Neutralino's performance basically depends on the performance of C++ server implementation. Here is the result for `Neutralino.os.runCommand` for `ls` command for 100 samples. It took average 6 miliseconds to respond `ls` bash command.   
 
 | Label        | # Samples | Average | Median | 90% Line | 95% Line | 99% Line | Min | Max | Error % | Throughput | Received KB/sec | Sent KB/sec | 
 |--------------|-----------|---------|--------|----------|----------|----------|-----|-----|---------|------------|-----------------|-------------| 
