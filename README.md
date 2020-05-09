@@ -131,6 +131,8 @@ Windows                         ~ 6 - 7 MB
   <img src="media/dev-njs.JPG"/>
 </div>
 
+*Note - [neu-cli](https://neutralino.js.org/docs/#/tools/cli) offers an automated development workflow*
+
 ### Neutralino Debugging
 
 Neutralino app is served via a socket. Therefore debugging can be done using a web browser.
