@@ -1,4 +1,4 @@
-# Why Neutralinojs is better? — proof
+# Why Neutralinojs is better for lightweight apps? — proof
 
 [Neutralinojs](https://github.com/neutralinojs/neutralinojs) framework was evaluated in comparison with Electron and NW.js considering disk consumption, memory consumption, easiness of development workflow and portability.
 
