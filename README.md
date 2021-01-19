@@ -2,6 +2,8 @@
 
 [Neutralinojs](https://github.com/neutralinojs/neutralinojs) framework was evaluated in comparison with Electron and NW.js considering disk consumption, memory consumption, easiness of development workflow and portability.
 
+**Please notice that the following comparison data may not match with the latest releases of Neutralinojs, NW.js, and Electron. This benchmark was done in 2018.**
+
 ### Sample applications
 
 Simple `Hello World` type application is used in each framework on Linux and Windows for the evaluation.
